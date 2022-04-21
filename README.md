@@ -14,3 +14,6 @@ Our vision is to develop a mobile application that takes in live speech or audio
   - Flutter
   - Google Speech API
   - NLP in Python
+
+## To use application
+`jj`
