@@ -15,7 +15,7 @@ Our vision is to develop a mobile application that takes in live speech or audio
   - Google Speech API
   - NLP in Python
 
-## To try application
+## To try the application
 Clone the repo
 ```
 git clone https://github.com/Liri-s29/Sound-In-Vision.git
