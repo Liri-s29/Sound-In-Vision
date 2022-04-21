@@ -15,7 +15,18 @@ Our vision is to develop a mobile application that takes in live speech or audio
   - Google Speech API
   - NLP in Python
 
-## To use application
+## To try application
+Clone the repo
 ```
-jj
+git clone https://github.com/Liri-s29/Sound-In-Vision.git
+```
+
+Install the packages
+```
+flutter pub get
+```
+
+Run Flutter application
+```
+flutter run
 ```
