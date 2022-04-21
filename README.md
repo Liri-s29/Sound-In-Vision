@@ -1,6 +1,6 @@
 # Sound In Vision
 
-##"Breaking the barrier among the specially-abled"
+## "Breaking the barrier among the specially-abled"
 
 ## Understanding the Project
 Sign language is a visual language that is used by deaf people.
